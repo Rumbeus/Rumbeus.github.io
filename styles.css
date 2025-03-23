@@ -32,13 +32,13 @@ header p {
 
 /* Новый стиль для ссылок в шапке */
 header a {
-    color: #00000000; /* Желтый цвет для ссылок */
+    color: #ffd700; /* Желтый цвет для ссылок */
     text-decoration: none;
 }
 
 header a:hover {
     text-decoration: underline;
-    color: #00000000; /* Более светлый желтый при наведении */
+    color: #ffeb3b; /* Более светлый желтый при наведении */
 }
 
 section {
