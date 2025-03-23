@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Егор Игнатьев - Резюме</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <button id="lang-toggle">🇬🇧 English</button>
+
+        <!-- Русская версия -->
+        <div class="content" id="ru">
+            <header>
+                <h1>Егор Игнатьев</h1>
+                <p>Криптоэнтузиаст и универсальный специалист с 3+ годами опыта в блокчейн-индустрии</p>
+                <p>
+                    📧 <a href="mailto:detshot134614@gmail.com">detshot134614@gmail.com</a> | 
+                    🌐 <a href="https://www.linkedin.com/in/egor-ignatev-4517b7242/" target="_blank">LinkedIn</a> | 
+                    💬 <a href="https://t.me/Rumbachka" target="_blank">Telegram: @Rumbachka</a> | 
+                    📂 <span>Portfolio - по запросу</span>
+                </p>
+            </header>
+
+            <section>
+                <h2>Моя цель</h2>
+                <p>Я здесь, чтобы превратить ваш проект в лидера криптоиндустрии. С моим многогранным опытом в управлении сообществами, анализе данных, маркетинге и блокчейн-консультировании я создаю ценность там, где инновации встречаются с результатами.</p>
+            </section>
+
+            <section>
+                <h2>Суперсилы</h2>
+                <ul>
+                    <li><strong>Community Management</strong><br>Выращиваю активные сообщества с нуля до тысяч участников.<br>Разрабатываю стратегии, которые превращают пользователей в амбассадоров бренда.<br>Анализирую фидбэк, улучшая продукты.</li>
+                    <li><strong>Data Analysis</strong><br>Превращаю сырые данные в стратегии успеха.<br>Прогнозирую тренды, опережая рынок.<br>Мастер Google Analytics, Tableau и Power BI.</li>
+                    <li><strong>Content & Copywriting</strong><br>Пишу тексты, которые продают: от whitepaper до постов в соцсетях.<br>Создаю контент для ICO, DeFi и NFT, привлекающий миллионы.</li>
+                    <li><strong>Marketing Wizardry</strong><br>Налаживаю партнерства с лидерами мнений для максимального охвата.<br>Увеличиваю узнаваемость бренда.</li>
+                    <li><strong>Technical Expertise</strong><br>Консультирую по блокчейн-решениям и смарт-контрактам.<br>Соединяю разработчиков и комьюнити для идеального результата.<br>Разбираюсь в DeFi, NFT, DAO и Solidity как профи.</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Мой арсенал</h2>
+                <ul>
+                    <li><strong>Языки:</strong> Английский (B1), Русский (родной)</li>
+                    <li><strong>Инструменты:</strong> Google Analytics, Tableau, Power BI, Canva, Adobe Creative Suite, Solidity</li>
+                    <li><strong>Технологии:</strong> Blockchain, Smart Contracts, DeFi, NFT, DAO — знаю, как это работает</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Почему я ваш идеальный кандидат?</h2>
+                <p>Я не просто специалист — я катализатор успеха. Мой опыт охватывает все: от создания хайпа до технической реализации. Давайте вместе построим будущее криптоиндустрии!</p>
+            </section>
+        </div>
+
+        <!-- Английская версия -->
+        <div class="content" id="en" style="display: none;">
+            <header>
+                <h1>Egor Ignatyev</h1>
+                <p>Crypto Enthusiast & Versatile Specialist with 3+ Years in Blockchain Industry</p>
+                <p>
+                    📧 <a href="mailto:detshot134614@gmail.com">detshot134614@gmail.com</a> | 
+                    🌐 <a href="https://www.linkedin.com/in/egor-ignatev-4517b7242/" target="_blank">LinkedIn</a> | 
+                    💬 <a href="https://t.me/Rumbachka" target="_blank">Telegram: @Rumbachka</a> | 
+                    📂 <span>Portfolio - available upon request</span>
+                </p>
+            </header>
+
+            <section>
+                <h2>My Goal</h2>
+                <p>I’m here to turn your project into a crypto industry leader. With my diverse expertise in community management, data analysis, marketing, and blockchain consulting, I deliver value where innovation meets results.</p>
+            </section>
+
+            <section>
+                <h2>Superpowers</h2>
+                <ul>
+                    <li><strong>Community Management</strong><br>Building active communities from scratch to thousands of members.<br>Crafting strategies that turn users into brand ambassadors.<br>Analyzing feedback to enhance products.</li>
+                    <li><strong>Data Analysis</strong><br>Turning raw data into winning strategies.<br>Predicting trends ahead of the market.<br>Proficient in Google Analytics, Tableau, and Power BI.</li>
+                    <li><strong>Content & Copywriting</strong><br>Writing compelling texts from whitepapers to social media posts.<br>Creating content for ICOs, DeFi, and NFTs that attracts millions.</li>
+                    <li><strong>Marketing Wizardry</strong><br>Building partnerships with KOLs for maximum reach.<br>Boosting brand awareness.</li>
+                    <li><strong>Technical Expertise</strong><br>Advising on blockchain solutions and smart contracts.<br>Bridging developers and communities for perfect outcomes.<br>Expert in DeFi, NFTs, DAOs, and Solidity.</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>My Toolkit</h2>
+                <ul>
+                    <li><strong>Languages:</strong> English (B1), Russian (native)</li>
+                    <li><strong>Tools:</strong> Google Analytics, Tableau, Power BI, Canva, Adobe Creative Suite, Solidity</li>
+                    <li><strong>Technologies:</strong> Blockchain, Smart Contracts, DeFi, NFTs, DAOs — I know how it works</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Why I’m Your Ideal Candidate</h2>
+                <p>I’m not just a specialist — I’m a catalyst for success. My experience spans everything from generating buzz to technical execution. Let’s build the future of crypto together!</p>
+            </section>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
