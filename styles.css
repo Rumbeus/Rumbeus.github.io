@@ -38,7 +38,7 @@ header a {
 
 header a:hover {
     text-decoration: underline;
-    color: #ffeb3b; /* Более светлый желтый при наведении */
+    color: #00000000; /* Более светлый желтый при наведении */
 }
 
 section {
